@@ -1,4 +1,3 @@
-# AI-Automation-Journey
 # AI-Automation-Journey 🚀
 
 Welcome to my AI Automation learning journey.
