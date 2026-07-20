@@ -1,0 +1,11 @@
+name = input("Enter your name: ").title()
+age = int(input("Enter your age: "))
+city = input("Enter your city: ").title()
+goal = input("Enter your dream job: ")
+
+print("\n========== MY PROFILE ==========")
+print("Name      :", name)
+print("Age       :", age)
+print("City      :", city)
+print("Dream Job :", goal)
+print("\nKeep learning Python! 🚀")
