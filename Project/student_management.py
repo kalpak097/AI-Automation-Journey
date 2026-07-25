@@ -12,8 +12,8 @@ for name, mark in students.items():
     print(f"Name: {name} | Marks: {mark} | Status: {status}")
 
 # Find the topper
-toppers_name = max(students, key=students.get)
-topper_marks = students[toppers_name]
+topper_name = max(students, key=students.get)
+topper_marks = students[topper_name]
 
 print("\n--- Topper ---")
-print(f"Topper: {toppers_name} with {topper_marks} marks")
+print(f"Topper: {topper_name} with {topper_marks} marks")
