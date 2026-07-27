@@ -1,1 +1,61 @@
-with open("expenses.txt", "w") as file
+My AI Automation Journey
+
+Day 1:
+- Installed Python
+- Installed VS Code
+- Learned Git and GitHub
+
+Day 2:
+- Learned variables
+- Learned input() and print()
+- Built my first calculator
+
+Day 3:
+- Learned if, elif, and else
+- Built a grade checker
+- Built an ATM simulator
+
+Day 4:
+- Learned for and while loops
+- Built a multiplication table
+- Built a factorial calculator
+- Built a prime number checker
+
+Day 5:
+- Learned Python functions
+- Built a BMI calculator
+- Built a temperature converter
+- Converted programs into reusable functions
+
+Day 6:
+- Learned lists and tuples
+- Built a shopping list app
+- Built a to-do list
+- Built a student marks analyzer
+
+Day 7:
+- Learned dictionaries and sets
+- Built a phonebook
+- Built a student management system
+- Learned how to remove duplicates using sets
+
+Day 8:
+- Learned file handling
+- Built a notes app
+- Built a diary app
+- Built an expense tracker
+
+Day 9:
+- Learned exception handling
+- Used try, except, else, and finally
+- Built a safe calculator
+- Built a secure login system
+
+Goals:
+- Complete the 90-Day AI Automation Roadmap
+- Become an AI Automation Engineer
+- Build real-world AI applications
+- Earn money using AI skills
+
+Quote:
+"Consistency beats talent when talent doesn't stay consistent."
