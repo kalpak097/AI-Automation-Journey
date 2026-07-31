@@ -1,0 +1,11 @@
+{
+    "name": "Kalpak",
+    "age": 19,
+    "course": "AI Automation",
+    "skills": [
+        "Python",
+        "APIs",
+        "GitHub",
+        "JSON"
+    ]
+}
