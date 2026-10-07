@@ -15,13 +15,6 @@ I'm learning AI Automation from scratch and documenting everything I build.
 - Build AI Automation Projects
 - Get my first freelance client
 
-## Progress
-
-### Week 1
-- ✅ Day 1: VS Code Installed
-- ✅ Day 1: Git Installed
-- ✅ Day 1: GitHub Account Created
-- ⏳ Day 2: Python
 
 ## Projects
 Projects will be added here as I complete them.
